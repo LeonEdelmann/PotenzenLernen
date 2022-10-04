@@ -1,0 +1,50 @@
+body {text-align: center;}
+#button-start {
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    border: 0px;
+    padding: 8px;
+}
+#button-start:hover {
+    background-color: orange;
+    color: black;
+}
+#roundfield {margin-top: 16px;margin-bottom: 16px;}
+#potenz {
+    border: 2px solid gold;
+    width: 60%;
+    margin: auto;
+}
+#inputN {
+    margin-top: 8px;
+    width: 59%;
+    text-align: center;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+#button-stop {
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    border: 0px;
+    padding: 8px;
+}
+#button-stop:hover {color: black;background-color: orange;}
+#rounds {
+    display: inline-block;
+    margin-left: 52%;
+    font-size: x-large;
+}#timer {
+    display: inline-block;
+    font-size: xx-large;
+}#enterResult {
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    border: 0px;
+    padding: 8px;
+}#enterResult:hover {
+    color: black;
+    background-color: orange;
+}
